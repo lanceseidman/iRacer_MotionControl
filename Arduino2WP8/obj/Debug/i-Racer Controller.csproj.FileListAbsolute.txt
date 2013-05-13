@@ -1,0 +1,21 @@
+C:\Users\Lance\Downloads\iRacer_Controller-master\iRacer_Controller-master\Arduino2WP8\obj\Debug\App.g.cs
+C:\Users\Lance\Downloads\iRacer_Controller-master\iRacer_Controller-master\Arduino2WP8\obj\Debug\MainPage.g.cs
+C:\Users\Lance\Downloads\iRacer_Controller-master\iRacer_Controller-master\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+C:\Users\Lance\Downloads\iRacer_Controller-master\iRacer_Controller-master\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+C:\Users\Lance\Downloads\iRacer_Controller-master\iRacer_Controller-master\Arduino2WP8\obj\Debug\i-Racer Controller.csproj.GenerateResource.Cache
+C:\Users\Lance\Downloads\iRacer_Controller-master\iRacer_Controller-master\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Lance\Downloads\iRacer_Controller-master\iRacer_Controller-master\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Lance\Downloads\iRacer_Controller-master\iRacer_Controller-master\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Lance\Downloads\iRacer_Controller-master\iRacer_Controller-master\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Lance\Downloads\iRacer_Controller-master\iRacer_Controller-master\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Lance\Downloads\iRacer_Controller-master\iRacer_Controller-master\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Lance\Downloads\iRacer_Controller-master\iRacer_Controller-master\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+C:\Users\Lance\Downloads\iRacer_Controller-master\iRacer_Controller-master\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+C:\Users\Lance\Downloads\iRacer_Controller-master\iRacer_Controller-master\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+C:\Users\Lance\Downloads\iRacer_Controller-master\iRacer_Controller-master\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+C:\Users\Lance\Downloads\iRacer_Controller-master\iRacer_Controller-master\Arduino2WP8\Bin\Debug\AppManifest.xaml
+C:\Users\Lance\Downloads\iRacer_Controller-master\iRacer_Controller-master\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Lance\Downloads\iRacer_Controller-master\iRacer_Controller-master\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+C:\Users\Lance\Downloads\iRacer_Controller-master\iRacer_Controller-master\Arduino2WP8\obj\Debug\XapCacheFile.xml
+C:\Users\Lance\Downloads\iRacer_Controller-master\iRacer_Controller-master\Arduino2WP8\Bin\Debug\Arduino2WP8.dll.CodeAnalysisLog.xml
+C:\Users\Lance\Downloads\iRacer_Controller-master\iRacer_Controller-master\Arduino2WP8\Bin\Debug\Arduino2WP8.dll.lastcodeanalysissucceeded
