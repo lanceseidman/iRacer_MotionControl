@@ -264,7 +264,7 @@ namespace Arduino2WP8
                 await BTSock.OutputStream.WriteAsync(datab); // Send our Message to Connected Arduino
                 // txtBTStatus.Text = "Message Sent (" + WhatToSend + ")"; // Show what we sent to Device to UI (good for Debug)
                 txtBTStatus.Text = "sent";
-                System.Threading.Thread.Sleep(5000);
+                await Task.Delay(5000);
 
             }
         }
